@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules/
+audit-app/node_modules/
+audit-appb/node_modules/
+
+# Ignore build files
+build/
+dist/
